@@ -1,7 +1,7 @@
 # Charlie
 ## Welcome to my GitHub!
 
-[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlie)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlie8rown)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie8rown&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
