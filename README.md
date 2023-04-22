@@ -2,7 +2,7 @@
 ## Welcome to my GitHub!
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ou18ZgE49Fss0/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Ou18ZgE49Fss0/giphy.gif" width="300"/>
 </div>
 
 [![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlie8rown)](https://github.com/anuraghazra/github-readme-stats)
